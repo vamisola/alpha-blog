@@ -1,5 +1,8 @@
 == README
 
+This is my first Ruby on Rails Project fro Udemy.com
+-------
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
